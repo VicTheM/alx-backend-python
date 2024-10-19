@@ -1,1 +1,1 @@
-# 0x02-python_async_comprehension
+# Asyncronous python is cool and not confusing!
